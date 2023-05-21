@@ -31,9 +31,8 @@ Aqui ficará disponivel o link para acessar o site hospedado
 -`CSS`
 
 # Pessoas Desenvolvedoras do Projeto
-# Autores
 
-| [<img src="![WhatsApp Image 2023-05-21 at 11 41 37](https://github.com/rfreir3/SIIM/assets/123081912/ced5fc79-ef20-489e-9697-461cb751d739)" width=115><br><sub>Rafael Oliveira</sub>](https://github.com/rfreir3) |  [<img src="![WhatsApp Image 2023-05-21 at 11 36 58](https://github.com/rfreir3/SIIM/assets/123081912/1c683bd3-0322-479f-91d3-e53f39af4322)" width=115><br><sub>Alice Ferreira</sub>](https://github.com/Malicef) |  [<img src="" width=115><br><sub>Joana Oliveira</sub>](https://github.com/JoanaLOliveira) |
+| [<img src="" width=115><br><sub>Rafael Oliveira</sub>](https://github.com/rfreir3) |  [<img src="" width=115><br><sub>Alice Ferreira</sub>](https://github.com/Malicef) |  [<img src="" width=115><br><sub>Joana Oliveira</sub>](https://github.com/JoanaLOliveira) |
 | :---: | :---: | :---: |
 
 
