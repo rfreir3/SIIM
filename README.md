@@ -33,7 +33,7 @@ Aqui ficará disponível o link para acessar o site hospedado
 
 # Pessoas Desenvolvedoras do Projeto
 
-| [<img src="![Rafael Oliveira](https://github.com/rfreir3/SIIM/assets/123081912/fafea256-2b71-466d-86fb-4cd6f7690e20)"width=115><br><sub>Rafael Oliveira</sub>](https://github.com/rfreir3) |  [<img src=" ![Alice Ferreira](https://github.com/rfreir3/SIIM/assets/123081912/06417db5-27ea-47bf-950a-3ba3b48cffe8)" width=115><br><sub>Alice Ferreira</sub>](https://github.com/Malicef) |  [<img src="" width=115><br><sub>Joana Oliveira</sub>](https://github.com/JoanaLOliveira) |
+| [<img src=""width=115><br><sub>Rafael Oliveira</sub>](https://github.com/rfreir3) |  [<img src="" width=115><br><sub>Alice Ferreira</sub>](https://github.com/Malicef) |  [<img src="" width=115><br><sub>Joana Oliveira</sub>](https://github.com/JoanaLOliveira) |
 | :---: | :---: | :---: |
 
 
