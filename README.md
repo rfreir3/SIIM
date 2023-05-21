@@ -26,7 +26,8 @@ O intuito do projeto é facilitar a busca por informações médicas, sem necess
 Aqui ficará disponível o link para acessar o site hospedado 
 
 # Tecnologias Ultilizadas 
-<img src="https://github.com/rfreir3/SIIM/assets/123081912/c0475de2-6a22-4cfb-8e50-50034dffe14c" width="100"> <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="100"> <img src="https://github.com/rfreir3/SIIM/assets/123081912/77ee7b17-01d8-4671-9f36-e17ee2fca992" width="100">
+<img src="https://github.com/rfreir3/SIIM/assets/123081912/c0475de2-6a22-4cfb-8e50-50034dffe14c" width="95"><br><sub>javaScript</sub> <img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="95"><br><sub>HTML 5</sub> <img src="https://github.com/rfreir3/SIIM/assets/123081912/77ee7b17-01d8-4671-9f36-e17ee2fca992" width="95"><br><sub>CSS 3</sub>
+
 
 
 # Pessoas Desenvolvedoras do Projeto
